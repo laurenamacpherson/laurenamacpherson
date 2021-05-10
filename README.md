@@ -1,7 +1,7 @@
 - Hi, I’m @laurenamacpherson
 - I'm an MSc Student studying advanced separation processes. 
-- I’m currently learning how to use GitHub! I'm also learning to use MATLAB and python for model development and machine learning techniques. 
-- I use Notion to organize my tasks and Obsidian to organize my notes.  
+- I’m currently learning how to use GitHub! I'm also learning to use MATLAB and python for model development and machine learning techniques, and LaTeX to replace MS Word. 
+- I use Notion to organize my tasks and Obsidian to organize my notes.
 
 
 <!---
